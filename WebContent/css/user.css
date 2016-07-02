@@ -1,0 +1,50 @@
+.userinfo {
+	margin-top: 50px;
+	padding-left: 50px;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.tab {
+	padding: 3px;
+	border-bottom: 0;
+}
+
+table {
+	width: 100%;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-spacing: 1px;
+	border-collapse: collapse;
+	border-spacing: 2px;
+	font-size: 14px;
+	color: #333;
+	line-height: 40px;
+}
+
+.btn {
+	width: 100px;
+	height: 30px;
+	background: #35b558;
+	border: 1px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+input {
+	width: 200px;
+	height: 30px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.erro{
+	color:red;
+}

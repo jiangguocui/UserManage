@@ -1,0 +1,74 @@
+.ucenter-left {
+  float: left;
+  width: 180px;
+  height: 100%;
+  display: inline-block;
+  border-right: 1px solid #eaeaea;
+  margin-left:-190px;
+  margin-top:-66px;
+}
+.cf:after {
+  content: '';
+  display: block;
+  clear: both;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+}
+.ucneter-l-head .ulhead-headicon {
+  margin: 16px 0 0 16px;
+  float: left;
+  padding: 0;
+  overflow: hidden;
+}
+.ulhead-info {
+  max-width: 96px;
+  margin: 28px 0 10px 15px;
+  float: left;
+  text-align: left;
+}
+.ulhead-info .ulhead-info-uname {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100px;
+  white-space: nowrap;
+  color: #333;
+  font-size: 12px;
+}
+.ucenter-l-list {
+  width: 180px;
+  margin-top:10px;
+  padding-top: 14px;
+  border-top: 1px solid #eaeaea;
+}
+.ucenter-l-list .ullist-ul {
+  margin-bottom: 16px;
+}
+.ucenter-l-list .ullist-ul li {
+  cursor: pointer;
+  margin-top: 4px;
+}
+.ullist-ul li a {
+  padding-left: 16px;
+  width: 100%;
+  line-height: 34px;
+  color: #666;
+  font-size: 12px;
+  display: inline-block;
+}
+a a:hover{
+  text-decoration: none;
+}
+.ucenter-right {
+  width: 807px;
+  height: 60%;
+  min-height: 620px;
+  display: inline-block;
+  border-top: 1px solid #eaeaea;
+ // border-right: 1px solid #eaeaea;
+  border-bottom: 1px solid #eaeaea;
+  margin-top:-65px;
+}
+.active{
+	  background: #35b558;
+}
